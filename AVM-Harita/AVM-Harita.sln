@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVM-Harita", "AVM-Harita\AVM-Harita.csproj", "{A9DB5644-B39A-45A4-83D9-399CAC6A2CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9DB5644-B39A-45A4-83D9-399CAC6A2CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DB5644-B39A-45A4-83D9-399CAC6A2CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DB5644-B39A-45A4-83D9-399CAC6A2CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DB5644-B39A-45A4-83D9-399CAC6A2CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C435D30A-E933-4DFB-A1DE-FF1267BC2203}
+	EndGlobalSection
+EndGlobal

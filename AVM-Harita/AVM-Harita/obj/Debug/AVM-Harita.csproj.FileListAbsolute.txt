@@ -1,0 +1,13 @@
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\bin\Debug\AVM-Harita.exe.config
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\bin\Debug\AVM-Harita.exe
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\bin\Debug\AVM-Harita.pdb
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\obj\Debug\AVM-Harita.csprojAssemblyReference.cache
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\obj\Debug\AVM_Harita.Form1.resources
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\obj\Debug\AVM_Harita.Form2.resources
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\obj\Debug\AVM_Harita.Properties.Resources.resources
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\obj\Debug\AVM-Harita.csproj.GenerateResource.cache
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\obj\Debug\AVM-Harita.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\obj\Debug\AVM-Harita.exe
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\obj\Debug\AVM-Harita.pdb
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\obj\Debug\AVM_Harita.Form3.resources
+D:\Visual Studio\Projeler\AVM-Harita\AVM-Harita\obj\Debug\AVM_Harita.Form4.resources
